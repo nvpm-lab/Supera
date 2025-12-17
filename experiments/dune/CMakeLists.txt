@@ -21,7 +21,6 @@ art_make_library(
     LIBRARY_NAME
         dune_LArCVImageMaker
 	LIBRARIES
-		duneprototypes::Protodune_vd_CRT
 		nurandom::RandomUtils_NuRandomService_service
 		larcore::Geometry_Geometry_service
 		lardataalg::DetectorInfo
